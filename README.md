@@ -8,7 +8,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Oliver+macedo+sanchez">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer and learner  from <b>Perú</b> 」
+    「 I am a full stack web application developer  from <b>Perú</b> <br> with experience and a great interest in the fascinating field of data science. 」
     <br>
     <br>
   </samp>
@@ -31,3 +31,19 @@
   </a> 
 </p>
 <br />
+
+ # About me
+ 
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: oliver13yms@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/Oliver-1311/Oliver-1311/issues)
+
+</p>
+
+<br/>
+<br/>
+<br/>
